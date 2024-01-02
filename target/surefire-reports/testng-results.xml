@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-29T20:17:16 EST" name="Suite" finished-at="2023-12-29T20:18:49 EST" duration-ms="92705">
+    <groups>
+    </groups>
+    <test started-at="2023-12-29T20:17:16 EST" name="Test" finished-at="2023-12-29T20:18:49 EST" duration-ms="92705">
+      <class name="org.testing.TestScripts.TC1">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:org.testing.TestScripts.TC1@6b1274d2]" started-at="2023-12-29T20:17:16 EST" name="browserLaunch" finished-at="2023-12-29T20:17:23 EST" duration-ms="7093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method is-config="true" signature="tc1()[pri:0, instance:org.testing.TestScripts.TC1@6b1274d2]" started-at="2023-12-29T20:17:23 EST" name="tc1" finished-at="2023-12-29T20:17:40 EST" duration-ms="16734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="trending_click()[pri:0, instance:org.testing.TestScripts.TC1@6b1274d2]" started-at="2023-12-29T20:17:40 EST" name="trending_click" finished-at="2023-12-29T20:18:25 EST" duration-ms="45187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trending_click -->
+        <test-method is-config="true" signature="tc1_logout()[pri:0, instance:org.testing.TestScripts.TC1@6b1274d2]" started-at="2023-12-29T20:18:25 EST" name="tc1_logout" finished-at="2023-12-29T20:18:48 EST" duration-ms="23458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1_logout -->
+        <test-method is-config="true" signature="closeSession()[pri:0, instance:org.testing.TestScripts.TC1@6b1274d2]" started-at="2023-12-29T20:18:48 EST" name="closeSession" finished-at="2023-12-29T20:18:49 EST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- org.testing.TestScripts.TC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
